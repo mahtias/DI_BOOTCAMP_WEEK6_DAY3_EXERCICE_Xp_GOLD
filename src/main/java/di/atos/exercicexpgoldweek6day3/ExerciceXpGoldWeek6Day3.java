@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author KONATE-MK
+ * @author Adonis 
  */
 public class ExerciceXpGoldWeek6Day3 {
 
@@ -83,7 +83,3 @@ public class ExerciceXpGoldWeek6Day3 {
 
 
 
-/**
- *
- * @author KONATE-MK
- */
